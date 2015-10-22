@@ -1,0 +1,16 @@
+{
+  "name": "futura-light",
+  "version": "0.1.1",
+  "description": "A simple package providing the Roboto fontface.",
+  "main": "css/futura-fontface.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johnptmcdonald/futura-light.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Apache 2.0"
+}

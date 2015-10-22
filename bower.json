@@ -1,0 +1,16 @@
+{
+  "name": "futura-fontface",
+  "description": "A simple package providing futura light.",
+  "version": "0.0.1",
+  "main": [
+    "./css/futura-fontface.css",
+    "./fonts/futura-light-normal.ttf"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
